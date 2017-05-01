@@ -1,0 +1,7 @@
+/*******修改表的操作**********/
+1.获取conn
+2.获取propareStatement
+3.提交修改信息
+/********查询表的操作****************/
+1.得到queryRunner
+2.query查询数据，传入conn，使用BeanHandler组件封装（数量的查询要用ScalarHandler组件）
